@@ -1,5 +1,7 @@
 这个插件可以从自建的[lanraragi](https://github.com/Difegue/LANraragi)上下载本子的元数据。
+
 当从lanraragi上检索不到内容时，会自动调用原来的[E站](https://e-hentai.org/)下载本子的元数据的流程下载元数据。
+
 在原插件的基础上增加了自定义延时的功能以规避封禁ip。
 
 **安装方法**
