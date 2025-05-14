@@ -20,10 +20,11 @@
 2. 将数据库文件（EhTagTranslation.db）安装在你想保存位置
 3. 在插件中勾选Chinese_Exhentai，再在下面EhTagTranslation_db文本框中输入数据库文件位置。如：
 
-&emsp;&emsp;&emsp;&emsp;位置为E:\Code\python\Ehentai_metadata\EhTagTranslation.db
+位置为E:\Code\python\Ehentai_metadata\EhTagTranslation.db
 
-&emsp;&emsp;&emsp;&emsp;文本框中填写E:\Code\python\Ehentai_metadata
+文本框中填写E:\Code\python\Ehentai_metadata
 
 **特别感谢**
+
 插件由nonpricklycactus的插件改写​​[Ehentai_metadata](https://github.com/nonpricklycactus/Ehentai_metadata)
 
